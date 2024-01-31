@@ -1,0 +1,25 @@
+Naam: Camiel Kors
+Studentnummer: 500911962
+Klas: Onyx
+Schooljaar: 23/24, 1ste jaar
+
+LINK NAAR LIVE WEBSITE
+https://camielkors.github.io/index.html
+
+BRONVERMELDING
+1. https://yoksel.github.io/flex-cheatsheet/#section-display
+2. https://www.youtube.com/watch?v=OltY8JIaP-4&ab_channel=KennyYipCoding
+3. https://dlo.mijnhva.nl/d2l/le/content/536439/Home
+4. https://forum.freecodecamp.org/
+
+Afbeeldingen:
+Achtergrond: https://nl.ra.co/dj/nahual
+Asteriods foto: https://www.retroplaystationkopen.nl/playstation-1/games/asteroids
+Donkey Kong foto: https://nl.pinterest.com/pin/416020084315580817/
+Pacman foto/poster: https://nl.pinterest.com/pin/228205906099397885/
+Pong foto: http://computermuseum.50megs.com/dutch/history/pongdt.htm
+Space invaders foto: https://ultimatepopculture.fandom.com/wiki/Space_Invaders
+Street fighter 2 foto: https://en.wikipedia.org/wiki/Street_Fighter_II
+Arcade machine foto: https://www.turbosquid.com/Search/3D-Models/joust
+Pacman png foto: https://en.m.wikipedia.org/wiki/File:Original_PacMan.svg
+Space invaders logo png: https://www.computermeester.be/ontspanning/space-invaders.htm
